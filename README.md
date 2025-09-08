@@ -47,6 +47,6 @@ Sou apaixonado por tecnologia e pelo desenvolvimento de soluções criativas. �
   <img alt="Top Languages" height="180em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuralvesss&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br"/>
 </p>
-![snake gif](https://github.com/thuralvesss/github-readme-snake-animation/blob/output/github-snake-dark.svg)
+
 
 
