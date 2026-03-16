@@ -48,5 +48,9 @@ Sou apaixonado por tecnologia e pelo desenvolvimento de soluções criativas. �
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuralvesss&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br"/>
 </p>
 
+## 🐍 Snake Game
+![github contribution grid snake animation](https://raw.githubusercontent.com)
+
+
 
 
