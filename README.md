@@ -46,15 +46,12 @@ Sou apaixonado por tecnologia e pelo desenvolvimento de soluções criativas. �
   
   <img alt="Top Languages" height="180em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuralvesss&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br"/>
-
-    ---
-
-### 🐍 Snake Game
-![github contribution grid snake animation](https://raw.githubusercontent.com)
-
----
-
 </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 
