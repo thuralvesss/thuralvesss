@@ -2,7 +2,8 @@
 **`Desenvolvedor FullStack`**
 
 Me chamo **Arthur Alves Gomes**, tenho 22 anos e sou natural de Brasília-DF.  
-Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na **FACULDADE SENAC-DF**.  
+Atualmente, estou cursando o ultimo semestre de  **Análise e Desenvolvimento de Sistemas** na **FACULDADE SENAC-DF**.  
+e estou matriculado em **Engenharia de software** como segunda graduação para inicar em agosto/2026
 Sou apaixonado por tecnologia e pelo desenvolvimento de soluções criativas. 🚀  
 
 <p align="left"> 
