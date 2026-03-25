@@ -1,5 +1,5 @@
 # 💻 Arthur Alves  
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Backend`**
 
 Me chamo **Arthur Alves Gomes**, tenho 22 anos e sou natural de Brasília-DF.  
 Atualmente, estou cursando o ultimo semestre de  **Análise e Desenvolvimento de Sistemas** na **FACULDADE SENAC-DF**.  
