@@ -1,10 +1,10 @@
-# 💻 Arthur Alves  
+#  Arthur Alves  
 **`Desenvolvedor Backend`**
 
 Me chamo **Arthur Alves Gomes**, tenho 22 anos e sou natural de Brasília-DF.  
 Atualmente, sou um desenvolvedor Backend no Exército Brasileiro, estou cursando o ultimo semestre de  **Análise e Desenvolvimento de Sistemas**.  
 E logo estarei cursando **Engenharia de software** como segunda graduação.
-Sou apaixonado por tecnologia e pelo desenvolvimento de soluções criativas. 🚀  
+Sou apaixonado por tecnologia e pelo desenvolvimento de soluções criativas.   
 
 <p align="left"> 
   <a href="https://www.linkedin.com/in/arthur-alves-gomes-494583311/" target="_blank">
@@ -24,7 +24,7 @@ Sou apaixonado por tecnologia e pelo desenvolvimento de soluções criativas. �
 
 ---
 
-### 🤖 Linguagens e Tecnologias  
+###  Linguagens e Tecnologias  
 
 <img align="left" alt="HTML" title="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>  
 <img align="left" alt="CSS" title="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>  
@@ -39,7 +39,7 @@ Sou apaixonado por tecnologia e pelo desenvolvimento de soluções criativas. �
 
 ---
 
-### 📊 Estatísticas  
+###  Estatísticas  
 
 <p align="left">
   <img alt="GitHub Stats" height="180em" style="padding-right:10px;"
