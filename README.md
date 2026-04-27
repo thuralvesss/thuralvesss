@@ -3,8 +3,6 @@
 
 Me chamo **Arthur Alves Gomes**, tenho 22 anos e sou natural de Brasília-DF.  
 Atualmente, sou um desenvolvedor Backend no Exército Brasileiro, estou cursando o ultimo semestre de  **Análise e Desenvolvimento de Sistemas**.  
-E logo estarei cursando **Engenharia de software** como segunda graduação.
-Sou apaixonado por tecnologia e pelo desenvolvimento de soluções criativas.   
 
 <p align="left"> 
   <a href="https://www.linkedin.com/in/arthur-alves-gomes-494583311/" target="_blank">
