@@ -30,7 +30,7 @@ Atualmente, sou um desenvolvedor Full Stack no Exército Brasileiro, estou cursa
 <img align="left" alt="TypeScript" title="TypeScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>  
 <img align="left" alt="React" title="React" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>  
 <img align="left" alt="Angular" title="Angular" width="40px" style="padding-right:10px;" src="https://images.icon-icons.com/2699/PNG/512/angular_logo_icon_169595.png"/>  
-<img align="left" alt="Angular" title="Angular" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1280px-Spring_Boot.svg.png"/>  
+<img align="left" alt="Spring Boot" title="Spring Boot" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1280px-Spring_Boot.svg.png"/>  
 
 
 <br/><br/><br/>
