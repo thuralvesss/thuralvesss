@@ -1,8 +1,8 @@
 #  Arthur Alves  
 **`Desenvolvedor Backend`**
 
-Me chamo **Arthur Alves Gomes**, tenho 22 anos e sou natural de Brasília-DF.  
-Atualmente, sou um desenvolvedor Full Stack no Exército Brasileiro, estou cursando o ultimo semestre de  **Análise e Desenvolvimento de Sistemas**.  
+Me chamo **Arthur Alves Gomes**, tenho 23 anos e sou natural de Brasília-DF.  
+Atualmente, sou um desenvolvedor Full Stack no Exército Brasileiro, formado em  **Análise e Desenvolvimento de Sistemas**.  
 
 <p align="left"> 
   <a href="https://www.linkedin.com/in/arthur-alves-gomes-494583311/" target="_blank">
